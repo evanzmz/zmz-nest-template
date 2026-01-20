@@ -17,7 +17,7 @@
 
 ### 1. 使用模板创建新项目
 
-npx degit evanzmz/zmz-nest-template
+npx degit evanzmz/zmz-nest-template {new project name}
 
 
 ### 2. 运行初始化脚本
